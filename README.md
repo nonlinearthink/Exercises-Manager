@@ -5,6 +5,8 @@
 | 稳定版 | [lifeInZUCC/Exercises-Manager](https://github.com/lifeInZUCC/Exercises-Manager)         |
 | 开发版 | [nonlinearthink/Exercises-Manager](https://github.com/nonlinearthink/Exercises-Manager) |
 
+本项目不再维护，2020暑假打算开发基于 eletron 的桌面版应用，这个命令行工具已经用不着了。
+
 ## 简介
 
 这是一套把题库制作工具，主要用来爬取网页上的习题，制作成 Markdown 的工具链。
