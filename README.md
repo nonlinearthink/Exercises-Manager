@@ -5,7 +5,9 @@
 | 稳定版 | [lifeInZUCC/Exercises-Manager](https://github.com/lifeInZUCC/Exercises-Manager)         |
 | 开发版 | [nonlinearthink/Exercises-Manager](https://github.com/nonlinearthink/Exercises-Manager) |
 
-本项目不再维护，2020暑假打算开发基于 eletron 的桌面版应用，这个命令行工具已经用不着了。
+**Exercises-Manager 1.x 不再维护，打算开发基于 eletron 的桌面版应用，这个命令行工具已经用不着了。**
+
+**期待 2.0 的到来吧。**
 
 ## 简介
 
